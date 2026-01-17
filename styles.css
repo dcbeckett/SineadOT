@@ -736,4 +736,8 @@ section {
     .gallery-grid {
         grid-template-columns: 1fr;
     }
+
+    .about-image img {
+        max-width: 180px;
+    }
 }
