@@ -1,0 +1,26 @@
+# GitLab Pages configuration
+# This will deploy your static website to GitLab Pages
+
+pages:
+  stage: deploy
+  script:
+    # Create the public directory
+    - mkdir -p public
+    
+    # Copy all website files to public directory
+    - cp index.html public/
+    - cp about.html public/
+    - cp services.html public/
+    - cp styles.css public/
+    - cp script.js public/
+    - cp -r images public/
+    
+  artifacts:
+    paths:
+      # The public directory is required for GitLab Pages
+      - public
+  
+  # Only deploy from the main/master branch
+  only:
+    - main
+    - master
