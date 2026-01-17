@@ -176,10 +176,10 @@ a:hover {
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: url('https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=1600&q=80');
+    background-image: url('images/hero-background.jpg');
     background-size: cover;
     background-position: center;
-    opacity: 0.15;
+    opacity: 0.2;
 }
 
 .hero-overlay {
