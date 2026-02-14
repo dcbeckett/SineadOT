@@ -1,6 +1,6 @@
 SINEAD EDWARDS OT - WEBSITE CONTENT
 ====================================
-Last Updated: January 17, 2026
+Last Updated: February 14, 2026
 
 Instructions: Edit the text below as needed. Keep the section headers (marked with ===) intact so we can easily map changes back to the website.
 
@@ -11,40 +11,39 @@ HOMEPAGE (index.html)
 
 --- HERO SECTION ---
 Title: Sinead Edwards OT
-Subtitle: Paediatric Occupational Therapy Services
-Tagline: Supporting children to reach their full potential through specialized occupational therapy
+Subtitle: Paediatric Occupational Therapy Service
+
 
 --- INTRODUCTION SECTION ---
 Heading: Welcome to Sinead Edwards OT
 
 Paragraph 1:
-Based in CastleBaldwin, County Sligo, we provide specialized paediatric occupational therapy services tailored to support children and their families.
+Based in Castlebaldwin, County Sligo, we provide Paediatric Occupational Therapy services tailored to support children and their families.
 
 Paragraph 2:
-At Sinead Edwards OT, we believe that every child deserves the opportunity to thrive and reach their full potential. Our private paediatric occupational therapy services are designed to help children overcome developmental challenges, build essential life skills, and participate fully in daily activities. Whether your child needs support with sensory processing, fine motor skills, self-care activities, or social participation, we're here to support your family every step of the way.
+The practice provides evidence based Paediatric Occupational Therapy assessment and intervention.  In Occupational Therapy the term Occupation refers to the everyday activities that are meaningful and important in a child’s life. For children, these occupations include play, learning, self-care, social interaction,rest and participation in family and community life. Occupational Therapy supports children to participate in these activities in ways that feel enjoyable, meaningful and supportive at every stage of their development. While recognising and honouring each individual child’s strengths, we work collaboratively with families to build confidence, helping to support functional meaningful participation at home and school. We believe that every child deserves the opportunity to thrive and reach their full potential. 
 
 --- SERVICES OVERVIEW SECTION ---
 Heading: How We Can Help Your Child
 
 Service Card 1:
-Title: Fine Motor Skills
-Description: Supporting children to develop hand strength, coordination, and skills needed for writing, drawing, and self-care tasks.
+Title: Motor Skills
+Description: Supporting children to develop the motor skills needed for everyday activities, including fine motor skills (hand-writing, using cutlery, fastening buttons/zips, tying laces) and gross motor skills (balance, coordination, core strength and body awareness). These skills are important for participation at home and in school. 
+
 
 Service Card 2:
 Title: Sensory Processing
-Description: Helping children who struggle with sensory sensitivities or seeking behaviors to regulate and engage in daily activities.
+Description: Helping children who struggle with sensory processing ( relating to sound, touch, movement and body awareness).
+
 
 Service Card 3:
 Title: Self-Care Skills
-Description: Building independence in dressing, eating, grooming, and other essential daily living skills.
+Description: Building independence in dressing, eating, and other essential daily living skills.
 
-Service Card 4:
-Title: Play & Social Skills
-Description: Enhancing your child's ability to engage in play, develop friendships, and participate in school and community activities.
 
 --- CALL TO ACTION SECTION ---
 Heading: Ready to Support Your Child?
-Text: Contact us today to discuss how our paediatric occupational therapy services can help your child thrive.
+Text: Contact us today to discuss how our paediatric Occupational Therapy services can help your child thrive.
 
 
 ================================================================================
@@ -53,57 +52,32 @@ ABOUT PAGE (about.html)
 
 --- PAGE HEADER ---
 Title: About Sinead Edwards
-Subtitle: Specialist Paediatric Occupational Therapist dedicated to helping children thrive
+Subtitle:  Private Paediatric Occupational Therapist 
 
 --- MAIN CONTENT ---
 
 Heading: Meet Sinead Edwards
 
-Lead Paragraph:
-A passionate paediatric occupational therapist committed to helping children achieve their developmental goals and reach their full potential.
 
-Section: Education & Qualifications
-Sinead studied Occupational Therapy at Trinity College, Dublin, one of Ireland's most prestigious institutions. Her comprehensive training at Trinity equipped her with a deep understanding of child development, sensory processing, and the therapeutic interventions that can transform children's lives.
+Section: Education & Professional experience :Sinead studied Occupational Therapy at Trinity College, qualifying in 2015. Since then, Sinead has gained extensive experience working in the area of paediatrics within the Health Care Executive (HSE), supporting children and their families facing developmental, sensory and functional challenges.
 
 Section: Professional Experience
 
 Paragraph 1:
-With extensive experience in the public healthcare sector, Sinead has worked with the Health Service Executive (HSE), where she provided vital support to countless children and families facing developmental, sensory, and functional challenges. Her time in the public system gave her invaluable insight into the diverse needs of children with various conditions including autism spectrum disorder, developmental coordination disorder, sensory processing difficulties, and other developmental delays.
+With extensive experience in the public healthcare sector, Sinead has gained experience supporting children with a range of neurodivergent profiles, including Autism, DCD and sensory processing difficulties.
 
-Paragraph 2:
-Throughout her career, Sinead has developed specialized expertise in paediatric occupational therapy, helping children develop essential skills for play, learning, and daily living. Her compassionate, child-centered approach focuses on understanding each child's unique strengths and challenges, working collaboratively with families to develop tailored interventions that make a real difference in children's daily lives.
 
-Section: Areas of Expertise
-Sinead is highly skilled in a wide range of paediatric occupational therapy methodologies, including:
 
-- Child-Centered Practice: Placing the child and family at the heart of all therapeutic interventions
-- Sensory Integration Therapy: Helping children process and respond to sensory information effectively
-- Fine Motor Development: Supporting handwriting, cutting, drawing, and manipulation skills
-- Gross Motor Coordination: Enhancing balance, coordination, and motor planning abilities
-- Self-Care Skills: Building independence in dressing, eating, grooming, and toileting
-- Play-Based Therapy: Using play as a therapeutic tool to develop essential skills
-- School Readiness: Preparing children for the demands of the classroom environment
-- Social Skills Development: Supporting peer interaction and social participation
-- Assistive Technology: Recommending adaptive equipment and tools for children
-- Parent Training & Education: Empowering families with strategies to support their child
+Paragraph 2: Sinead’s work is grounded in a neuroaffirming approach that values neurodiversity, honouring each child’s individuality. Therapy is collaborative, strengths focused and tailored to help each child participate meaningfully in daily life.
 
 Section: Why Choose Private Paediatric Occupational Therapy?
-After years of dedicated service in the public healthcare system, Sinead established her private practice to offer more personalized, flexible care for children and families. Private paediatric occupational therapy allows for:
+Choosing private Occupational Therapy offers families timely, personalised support tailored to each child’s individual needs and the environment to create a strong collaborative relationship between therapist, the child and their family. A neuro-affirming approach means your child is supported in ways that respect who they are, build on their strengths, allowing them to participate more confidently in everyday activities at home, school and in the community.
 
-- More time for comprehensive developmental assessments
-- Flexible scheduling to suit your family's needs
-- Personalized treatment plans tailored specifically to your child
-- Continuity of care with the same therapist throughout your child's journey
-- Home and school visits to support your child in their natural environments
-- Regular parent consultations and training sessions
 
-Section: Philosophy of Care
-Sinead believes that every child has unique strengths and the potential to thrive. Her approach combines clinical expertise with genuine compassion and a playful spirit, ensuring that each child receives therapy that is engaging, meaningful, and fun. She works collaboratively with families, educators, and other professionals to create a supportive network around each child. Whether your child is working on sensory regulation, developing motor skills, building independence, or improving social participation, Sinead is here to guide and support your family every step of the way.
 
 --- CONTACT SECTION ---
 Heading: Get in Touch
-Text: If you would like to learn more about how paediatric occupational therapy can help your child, please don't hesitate to reach out.
-
+Text: If you would like to learn more about how paediatric Occupational Therapy can help your child, please get in touch.
 
 ================================================================================
 SERVICES PAGE (services.html)
@@ -111,15 +85,21 @@ SERVICES PAGE (services.html)
 
 --- PAGE HEADER ---
 Title: Our Services
-Subtitle: Comprehensive paediatric occupational therapy solutions tailored to your child's needs
+Subtitle: Comprehensive Paediatric Occupational Therapy assessment and intervention tailored to your child's needs
 
 --- INTRODUCTION ---
-Our specialist paediatric occupational therapy services are designed to help children develop essential skills, overcome developmental challenges, and participate fully in daily activities at home, school, and in the community.
+Our  paediatric Occupational Therapy services are designed to help children develop essential skills, overcome developmental challenges, and participate fully in daily activities at home, school, and in the community.
 
 --- MAIN SERVICES ---
 
+Service 1: Assessment: We offer comprehensive Occupational Therapy assessment for children between the ages of 3-18. Together, these assessments provide a comprehensive understanding of your child’s needs, helping to guide intervention as required. Assessment includes looking at motor planning & co-ordination, daily living skills, sensory processing skills and school participation skills (inc hand writing).
+
+Service 2: Intervention: Following assessment, intervention based sessions may be recommended. Using play-based and individualised approach, intervention is focused on helping your child build daily skills, confidence and independence. Listed below are some of the specific areas of difficulty we can help with. 
+
+
+
 Service 1: Sensory Integration Therapy
-Many children experience difficulties processing sensory information from their environment. Our sensory integration therapy helps children who are over-responsive (sensory sensitive) or under-responsive (sensory seeking) to sensory input. Through play-based activities and structured interventions, we help children regulate their sensory systems, improve attention and focus, reduce anxiety, and participate more fully in daily activities. We also provide sensory strategies and environmental modifications for home and school settings.
+Many children experience difficulties processing sensory information from their environment. Our sensory processing strategies help children who are over-responsive (sensory sensitive) or under-responsive (sensory seeking) to sensory input. Through play-based activities and structured interventions, we help children regulate their sensory systems, improve attention and focus, reduce anxiety, and participate more fully in daily activities. We can also provide sensory strategies for home and school settings.
 
 Service 2: Fine Motor Skills Development
 Fine motor skills are essential for handwriting, drawing, cutting, buttoning, and many other daily tasks. We provide comprehensive assessments and targeted interventions to develop hand strength, finger dexterity, hand-eye coordination, and bilateral coordination. Our therapy includes activities to improve pencil grasp, handwriting legibility, scissor skills, and manipulation of small objects. We work closely with schools to support children's success in classroom activities.
@@ -128,51 +108,17 @@ Service 3: Self-Care and Daily Living Skills
 Building independence in self-care activities is a crucial part of child development. We support children in developing skills for dressing, eating, grooming, toileting, and other essential daily activities. Our interventions address underlying skill deficits, provide adaptive strategies, and recommend appropriate equipment when needed. We work collaboratively with families to establish routines and strategies that promote independence at home and school.
 
 Service 4: School Readiness and Academic Support
-Preparing children for the demands of school requires a range of developmental skills. We assess and support pre-academic skills including attention, sitting tolerance, following instructions, visual-motor integration, and early literacy skills. For school-aged children, we address challenges with handwriting, organization, attention in the classroom, and participation in school activities. We provide recommendations for classroom accommodations and work collaboratively with teachers to support each child's success.
+Preparing children for the demands of school requires a range of developmental skills. We assess and support pre-academic skills including attention, sitting tolerance, following instructions, visual-motor integration, and early literacy skills. For school-aged children, we address challenges with handwriting, organisation, attention in the classroom, and participation in school activities. We provide recommendations for classroom accommodations and work collaboratively with teachers to support each child's success.
 
---- ADDITIONAL SERVICES ---
-
-Section Heading: Additional Areas We Support
-
-1. Gross Motor Skills and Coordination
+Service 5 :Gross Motor Skills and Coordination
 Supporting children with balance, coordination, motor planning, and body awareness through movement-based activities and therapeutic exercises.
 
-2. Social Skills and Play Development
-Helping children develop age-appropriate play skills, turn-taking, sharing, peer interaction, and social communication abilities.
 
-3. Visual Perception and Visual Motor Skills
-Addressing difficulties with visual discrimination, visual memory, spatial awareness, and visual-motor integration that impact learning and daily tasks.
 
-4. Handwriting Assessment and Intervention
-Comprehensive evaluation of handwriting difficulties with targeted interventions to improve pencil grip, letter formation, spacing, and writing speed.
-
-5. Self-Regulation and Emotional Regulation
-Teaching children strategies to manage emotions, cope with transitions, and maintain appropriate arousal levels for learning and participation.
-
-6. Feeding and Eating Skills
-Supporting children with oral motor difficulties, sensory-based feeding challenges, utensil use, and mealtime behaviors.
-
-7. Home and School Consultations
-Providing environmental assessments, recommendations for adaptations, and strategies to support your child's success in their natural settings.
-
-8. Assistive Technology and Adaptive Equipment
-Recommending and training on appropriate adaptive tools, positioning equipment, and technology to support your child's independence and participation.
-
-9. Executive Function Skills
-Supporting development of planning, organization, time management, working memory, and task initiation skills essential for school success.
-
-10. Autism Spectrum Support
-Specialized interventions for children with autism including sensory strategies, social skills development, and support for daily routines and transitions.
-
-11. Parent Education and Training
-Empowering parents with knowledge, strategies, and activities to support their child's development and carry over therapy goals at home.
-
-12. Collaborative Care Planning
-Working alongside teachers, speech therapists, psychologists, and other professionals to provide coordinated, holistic support for your child.
 
 --- CONTACT SECTION ---
 Heading: Ready to Support Your Child?
-Text: Contact us today to discuss your child's needs and how our paediatric occupational therapy services can help them thrive.
+Text: Contact us today to discuss your child's needs and how our paediatric Occupational Therapy services can help them thrive.
 
 
 ================================================================================
@@ -181,10 +127,10 @@ CONTACT INFORMATION (appears on all pages)
 
 Business Name: Sinead Edwards OT
 Service Description: Paediatric Occupational Therapy Services
-Location: CastleBaldwin, County Sligo, Ireland
+Location: Castlebaldwin, County Sligo, Ireland
 Contact Person: Sinead Edwards
 Phone: 087 161 3115
-Email: sinead@sineadedwardsot.ie
+Email: info@sineadedwardsot.ie
 
 
 ================================================================================
