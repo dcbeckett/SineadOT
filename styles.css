@@ -159,7 +159,7 @@ a:hover {
 /* Hero Section */
 .hero {
     position: relative;
-    height: 300px;
+    height: 400px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -722,7 +722,7 @@ section {
 
 @media (max-width: 480px) {
     .hero {
-        height: 250px;
+        height: 400px;
     }
 
     .hero-title {
