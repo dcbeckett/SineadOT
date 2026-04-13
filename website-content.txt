@@ -42,7 +42,7 @@ Description: Building independence in dressing, eating, and other essential dail
 
 
 --- CALL TO ACTION SECTION ---
-Heading: Ready to Support Your Child?
+
 Text: Contact us today to discuss how our paediatric Occupational Therapy services can help your child thrive.
 
 
@@ -59,7 +59,7 @@ Subtitle:  Private Paediatric Occupational Therapist
 Heading: Meet Sinead Edwards
 
 
-Section: Education & background :Sinead studied Occupational Therapy at Trinity College Dublin, qualifying in 2015. Since then, Sinead has gained extensive experience working in the area of paediatrics within a primary care setting in the Health Care Executive (HSE), helping to support children and their families facing developmental, sensory and functional challenges.
+Section: Education & background :Sinead completed her academic study at Trinity College Dublin, qualifying in 2015 with a Bsc in Occupational Therapy. She is fully registered with the relevant regulatory body CORU and is a member of the Association of Occupational Therapists of Ireland (AOTI). Since qualifying, Sinead has gained extensive experience working in the area of paediatrics within a primary care setting in the Health Care Executive (HSE), helping to support children and their families facing developmental, sensory and functional challenges.
 
 Outside of work as an Occupational Therapist, Sinead is a mum to 3 young children and enjoys spending time in nature with her family. 
 
@@ -105,10 +105,10 @@ Service 1: Sensory Integration Therapy
 Many children experience difficulties processing sensory information from their environment. Our sensory processing strategies help children who are over-responsive (sensory sensitive) or under-responsive (sensory seeking) to sensory input. Through play-based activities and structured interventions, we help children learn to regulate their sensory systems, improve attention and focus, reduce anxiety, and participate more fully in daily activities. We can also provide sensory strategies for home and school settings.
 
 Service 2: Fine Motor Skills Development
-Fine motor skills are essential for handwriting, drawing, cutting, buttoning, and many other daily tasks. We provide comprehensive assessments and targeted interventions to develop hand strength, finger dexterity, hand-eye coordination, and bilateral coordination. Our therapy includes activities to improve pencil grasp, handwriting legibility, scissor skills, and manipulation of small objects. We can work closely with schools to support children's success in classroom activities.
+Fine motor skills are essential for handwriting, drawing, cutting, buttoning, and many other daily tasks. We provide comprehensive assessments and targeted interventions to develop hand strength, finger dexterity, hand-eye coordination, and bilateral coordination. Our intervention based sessions include activities to improve pencil grasp, handwriting legibility, scissor skills, and manipulation of small objects. We can work closely with schools to support children's success in classroom activities.
 
 Service 3: Self-Care and Daily Living Skills
-Building independence in self-care activities is a crucial part of child development. We support children in developing skills for dressing, eating,  and other essential daily activities. Our interventions address underlying skill deficits, provide adaptive strategies, and recommend appropriate equipment when needed. We work collaboratively with families to establish routines and strategies that promote independence at home and school.
+Building independence in self-care activities is a crucial part of child development. We support children in developing skills for dressing, eating,  and other essential daily activities. Occupational Therapy can help address underlying skill deficits, provide adaptive strategies, and recommend appropriate equipment when needed. We work collaboratively with families to establish routines and strategies that promote independence at home and school.
 
 Service 4: School Readiness and Academic Support
 Preparing children for the demands of school requires a range of developmental skills. We assess and support pre-academic skills including attention, sitting tolerance, following instructions, visual-motor integration, and early literacy skills. For school-aged children, we address challenges with handwriting, organisation, attention in the classroom, and participation in school activities. We provide recommendations for classroom accommodations and can work collaboratively with teachers to support each child's success.
@@ -129,9 +129,10 @@ CONTACT INFORMATION (appears on all pages)
 ================================================================================
 
 Business Name: Sinead Edwards Paediatric Occupational Therapist
-Service Description: Paediatric Occupational Therapy Services
+Service Description: Private Paediatric Occupational Therapy Services
 Location: Castlebaldwin, County Sligo, Ireland
-Contact Person: Sinead Edwards OT019252
+Contact Person: Sinead Edwards 
+CORU registration number: OT019252
 Phone: 087 161 3115
 Email: info@sineadedwardsot.ie
 
